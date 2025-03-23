@@ -17,7 +17,7 @@ MoodFit is a personal mood tracking and journaling web application built with Ne
 ### Steps
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/MoodFit.git
+   git clone https://github.com/thatgauripai/MoodFit.git
    ```
 2. Navigate into the project folder:
    ```sh
