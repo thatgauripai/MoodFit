@@ -19,6 +19,9 @@ export default function Navbar({ theme, setTheme }: { theme: string; setTheme: (
         <Link href="/moodtracker" className="hover:underline">
           Mood Tracker
         </Link>
+        <Link href="/insights" className="hover:underline">
+          Insights
+        </Link>
       </div>
 
       {/* Dark Mode Toggle */}
